@@ -197,6 +197,7 @@
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
 -   [FinancialData.Net](https://financialdata.net/) - Financial datasets (stock market data, financial statements, sustainability data, and more).
 
+-   [YIELD INTELLIGENCE](https://github.com/thebrierfox/yield-intelligence-skill) - AI-powered passive income scanner: Treasury yields, dividend ETFs, REITs, preferred stocks, CDs. Free MCP server interface (50 trial calls, no API key needed).
 ---
 
 ## License
